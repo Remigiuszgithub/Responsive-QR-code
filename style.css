@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    font-size: 11px;
+}
+.attribution { 
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+.attribution p { 
+    color: grey
+}
+.attribution img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
